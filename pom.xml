@@ -15,7 +15,7 @@
     <scm>
         <url>https://github.com/Jaydeep45/maven-versioning-demo.git</url> <!-- GIT URL -->
         <connection>scm:git:https://github.com/Jaydeep45/maven-versioning-demo.git</connection> <!-- URL HTTP de clone do projeto -->
-        <developerConnection>scm:git:https://github.com/Jaydeep45/maven-versioning-demo.gitt</developerConnection> <!-- URL HTTP de clone do projeto -->
+        <developerConnection>scm:git:https://github.com/Jaydeep45/maven-versioning-demo.git</developerConnection> <!-- URL HTTP de clone do projeto -->
         <tag>v1.0.0</tag>
     </scm>
 
